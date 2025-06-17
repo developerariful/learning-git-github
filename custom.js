@@ -1,2 +1,3 @@
-// master 
-alert('hello master')
+
+console.log('hello secondery');
+
